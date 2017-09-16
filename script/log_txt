@@ -1,0 +1,299 @@
+45
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[203]	train_set's binary_logloss: 0.228025	train_set's auc: 0.864179	val_set's binary_logloss: 0.243645	val_set's auc: 0.836849
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[204]	train_set's binary_logloss: 0.227999	train_set's auc: 0.864227	val_set's binary_logloss: 0.243643	val_set's auc: 0.836852
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[205]	train_set's binary_logloss: 0.227971	train_set's auc: 0.86428	val_set's binary_logloss: 0.243642	val_set's auc: 0.836857
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[206]	train_set's binary_logloss: 0.227947	train_set's auc: 0.864317	val_set's binary_logloss: 0.243639	val_set's auc: 0.836862
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[207]	train_set's binary_logloss: 0.227916	train_set's auc: 0.864367	val_set's binary_logloss: 0.243636	val_set's auc: 0.836869
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[208]	train_set's binary_logloss: 0.227887	train_set's auc: 0.864415	val_set's binary_logloss: 0.243635	val_set's auc: 0.836871
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[209]	train_set's binary_logloss: 0.227862	train_set's auc: 0.864449	val_set's binary_logloss: 0.24363	val_set's auc: 0.836878
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[210]	train_set's binary_logloss: 0.227834	train_set's auc: 0.864484	val_set's binary_logloss: 0.243626	val_set's auc: 0.836887
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[211]	train_set's binary_logloss: 0.227806	train_set's auc: 0.864532	val_set's binary_logloss: 0.243627	val_set's auc: 0.836886
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[212]	train_set's binary_logloss: 0.227783	train_set's auc: 0.864568	val_set's binary_logloss: 0.243621	val_set's auc: 0.836896
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[213]	train_set's binary_logloss: 0.227756	train_set's auc: 0.864612	val_set's binary_logloss: 0.24362	val_set's auc: 0.836899
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[214]	train_set's binary_logloss: 0.227735	train_set's auc: 0.864646	val_set's binary_logloss: 0.243619	val_set's auc: 0.836901
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[215]	train_set's binary_logloss: 0.227708	train_set's auc: 0.864696	val_set's binary_logloss: 0.243619	val_set's auc: 0.836903
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[216]	train_set's binary_logloss: 0.227681	train_set's auc: 0.864738	val_set's binary_logloss: 0.243618	val_set's auc: 0.836906
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[217]	train_set's binary_logloss: 0.227656	train_set's auc: 0.864784	val_set's binary_logloss: 0.243618	val_set's auc: 0.836907
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[218]	train_set's binary_logloss: 0.227628	train_set's auc: 0.864833	val_set's binary_logloss: 0.243615	val_set's auc: 0.836912
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[219]	train_set's binary_logloss: 0.227599	train_set's auc: 0.864887	val_set's binary_logloss: 0.24361	val_set's auc: 0.836923
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[220]	train_set's binary_logloss: 0.227579	train_set's auc: 0.864918	val_set's binary_logloss: 0.243607	val_set's auc: 0.836928
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[221]	train_set's binary_logloss: 0.22755	train_set's auc: 0.864967	val_set's binary_logloss: 0.243609	val_set's auc: 0.836925
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[222]	train_set's binary_logloss: 0.227517	train_set's auc: 0.865014	val_set's binary_logloss: 0.243606	val_set's auc: 0.83693
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[223]	train_set's binary_logloss: 0.227486	train_set's auc: 0.865063	val_set's binary_logloss: 0.243604	val_set's auc: 0.836932
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[224]	train_set's binary_logloss: 0.227462	train_set's auc: 0.865102	val_set's binary_logloss: 0.243601	val_set's auc: 0.836936
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[225]	train_set's binary_logloss: 0.227435	train_set's auc: 0.865145	val_set's binary_logloss: 0.243602	val_set's auc: 0.836936
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[226]	train_set's binary_logloss: 0.227409	train_set's auc: 0.865191	val_set's binary_logloss: 0.243599	val_set's auc: 0.836944
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[227]	train_set's binary_logloss: 0.227383	train_set's auc: 0.865239	val_set's binary_logloss: 0.243596	val_set's auc: 0.836949
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[228]	train_set's binary_logloss: 0.22736	train_set's auc: 0.865278	val_set's binary_logloss: 0.243596	val_set's auc: 0.836949
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[229]	train_set's binary_logloss: 0.227335	train_set's auc: 0.865314	val_set's binary_logloss: 0.243594	val_set's auc: 0.836951
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[230]	train_set's binary_logloss: 0.227314	train_set's auc: 0.865347	val_set's binary_logloss: 0.243592	val_set's auc: 0.836954
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[231]	train_set's binary_logloss: 0.227295	train_set's auc: 0.865373	val_set's binary_logloss: 0.243591	val_set's auc: 0.836957
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[232]	train_set's binary_logloss: 0.227269	train_set's auc: 0.86541	val_set's binary_logloss: 0.243589	val_set's auc: 0.83696
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[233]	train_set's binary_logloss: 0.227246	train_set's auc: 0.865457	val_set's binary_logloss: 0.243586	val_set's auc: 0.836965
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[234]	train_set's binary_logloss: 0.227219	train_set's auc: 0.865503	val_set's binary_logloss: 0.243588	val_set's auc: 0.836964
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[235]	train_set's binary_logloss: 0.227194	train_set's auc: 0.865554	val_set's binary_logloss: 0.243585	val_set's auc: 0.836968
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[236]	train_set's binary_logloss: 0.227168	train_set's auc: 0.865602	val_set's binary_logloss: 0.243588	val_set's auc: 0.836964
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[237]	train_set's binary_logloss: 0.227149	train_set's auc: 0.865636	val_set's binary_logloss: 0.243586	val_set's auc: 0.836967
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[238]	train_set's binary_logloss: 0.227122	train_set's auc: 0.865683	val_set's binary_logloss: 0.243584	val_set's auc: 0.836971
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[239]	train_set's binary_logloss: 0.227095	train_set's auc: 0.865727	val_set's binary_logloss: 0.243583	val_set's auc: 0.836972
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[240]	train_set's binary_logloss: 0.227072	train_set's auc: 0.865765	val_set's binary_logloss: 0.243582	val_set's auc: 0.836976
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[241]	train_set's binary_logloss: 0.227051	train_set's auc: 0.865806	val_set's binary_logloss: 0.243582	val_set's auc: 0.836979
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[242]	train_set's binary_logloss: 0.227028	train_set's auc: 0.865845	val_set's binary_logloss: 0.243579	val_set's auc: 0.836984
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[243]	train_set's binary_logloss: 0.227005	train_set's auc: 0.865883	val_set's binary_logloss: 0.243578	val_set's auc: 0.836984
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[244]	train_set's binary_logloss: 0.226983	train_set's auc: 0.865915	val_set's binary_logloss: 0.243576	val_set's auc: 0.836988
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[245]	train_set's binary_logloss: 0.226959	train_set's auc: 0.865954	val_set's binary_logloss: 0.243579	val_set's auc: 0.836982
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[246]	train_set's binary_logloss: 0.226933	train_set's auc: 0.866	val_set's binary_logloss: 0.243577	val_set's auc: 0.836985
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[247]	train_set's binary_logloss: 0.226908	train_set's auc: 0.866043	val_set's binary_logloss: 0.243576	val_set's auc: 0.836989
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[248]	train_set's binary_logloss: 0.226879	train_set's auc: 0.866086	val_set's binary_logloss: 0.243573	val_set's auc: 0.836996
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[249]	train_set's binary_logloss: 0.226852	train_set's auc: 0.866127	val_set's binary_logloss: 0.243574	val_set's auc: 0.836995
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[250]	train_set's binary_logloss: 0.226826	train_set's auc: 0.866179	val_set's binary_logloss: 0.243574	val_set's auc: 0.836996
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[251]	train_set's binary_logloss: 0.226806	train_set's auc: 0.866213	val_set's binary_logloss: 0.243573	val_set's auc: 0.836999
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[252]	train_set's binary_logloss: 0.226782	train_set's auc: 0.866247	val_set's binary_logloss: 0.243572	val_set's auc: 0.837002
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[253]	train_set's binary_logloss: 0.226753	train_set's auc: 0.866292	val_set's binary_logloss: 0.243571	val_set's auc: 0.837004
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[254]	train_set's binary_logloss: 0.226732	train_set's auc: 0.866327	val_set's binary_logloss: 0.243569	val_set's auc: 0.837005
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[255]	train_set's binary_logloss: 0.226704	train_set's auc: 0.866384	val_set's binary_logloss: 0.243568	val_set's auc: 0.83701
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[256]	train_set's binary_logloss: 0.226677	train_set's auc: 0.866428	val_set's binary_logloss: 0.243566	val_set's auc: 0.837011
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[257]	train_set's binary_logloss: 0.226657	train_set's auc: 0.866469	val_set's binary_logloss: 0.243564	val_set's auc: 0.837017
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[258]	train_set's binary_logloss: 0.226638	train_set's auc: 0.86651	val_set's binary_logloss: 0.243563	val_set's auc: 0.837018
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[259]	train_set's binary_logloss: 0.226615	train_set's auc: 0.866553	val_set's binary_logloss: 0.243562	val_set's auc: 0.837022
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[260]	train_set's binary_logloss: 0.226592	train_set's auc: 0.866588	val_set's binary_logloss: 0.243563	val_set's auc: 0.837022
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[261]	train_set's binary_logloss: 0.226573	train_set's auc: 0.866624	val_set's binary_logloss: 0.243563	val_set's auc: 0.837023
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[262]	train_set's binary_logloss: 0.226551	train_set's auc: 0.866666	val_set's binary_logloss: 0.24356	val_set's auc: 0.837031
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[263]	train_set's binary_logloss: 0.226526	train_set's auc: 0.86671	val_set's binary_logloss: 0.243561	val_set's auc: 0.837028
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[264]	train_set's binary_logloss: 0.226505	train_set's auc: 0.866741	val_set's binary_logloss: 0.243561	val_set's auc: 0.837028
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[265]	train_set's binary_logloss: 0.226481	train_set's auc: 0.86679	val_set's binary_logloss: 0.243562	val_set's auc: 0.837028
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[266]	train_set's binary_logloss: 0.226457	train_set's auc: 0.866833	val_set's binary_logloss: 0.243562	val_set's auc: 0.837029
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[267]	train_set's binary_logloss: 0.226436	train_set's auc: 0.866862	val_set's binary_logloss: 0.243561	val_set's auc: 0.837032
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[268]	train_set's binary_logloss: 0.226415	train_set's auc: 0.866905	val_set's binary_logloss: 0.243561	val_set's auc: 0.837033
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[269]	train_set's binary_logloss: 0.226396	train_set's auc: 0.866928	val_set's binary_logloss: 0.243561	val_set's auc: 0.837033
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[270]	train_set's binary_logloss: 0.226376	train_set's auc: 0.86697	val_set's binary_logloss: 0.243561	val_set's auc: 0.837035
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[271]	train_set's binary_logloss: 0.226352	train_set's auc: 0.867017	val_set's binary_logloss: 0.243562	val_set's auc: 0.837031
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[272]	train_set's binary_logloss: 0.226327	train_set's auc: 0.867065	val_set's binary_logloss: 0.243563	val_set's auc: 0.837029
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[273]	train_set's binary_logloss: 0.226303	train_set's auc: 0.867109	val_set's binary_logloss: 0.243562	val_set's auc: 0.837031
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[274]	train_set's binary_logloss: 0.226277	train_set's auc: 0.867155	val_set's binary_logloss: 0.243564	val_set's auc: 0.837028
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[275]	train_set's binary_logloss: 0.226255	train_set's auc: 0.867191	val_set's binary_logloss: 0.243564	val_set's auc: 0.837028
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[276]	train_set's binary_logloss: 0.226227	train_set's auc: 0.867239	val_set's binary_logloss: 0.243561	val_set's auc: 0.837031
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[277]	train_set's binary_logloss: 0.226205	train_set's auc: 0.86728	val_set's binary_logloss: 0.243561	val_set's auc: 0.837032
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[278]	train_set's binary_logloss: 0.226187	train_set's auc: 0.867308	val_set's binary_logloss: 0.243561	val_set's auc: 0.837031
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[279]	train_set's binary_logloss: 0.226166	train_set's auc: 0.867351	val_set's binary_logloss: 0.243562	val_set's auc: 0.837029
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[280]	train_set's binary_logloss: 0.226146	train_set's auc: 0.86738	val_set's binary_logloss: 0.243563	val_set's auc: 0.837029
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[281]	train_set's binary_logloss: 0.226124	train_set's auc: 0.867432	val_set's binary_logloss: 0.243563	val_set's auc: 0.837029
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[282]	train_set's binary_logloss: 0.226107	train_set's auc: 0.867463	val_set's binary_logloss: 0.243564	val_set's auc: 0.837027
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[283]	train_set's binary_logloss: 0.226086	train_set's auc: 0.867497	val_set's binary_logloss: 0.243565	val_set's auc: 0.837028
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[284]	train_set's binary_logloss: 0.226065	train_set's auc: 0.867534	val_set's binary_logloss: 0.243562	val_set's auc: 0.837034
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[285]	train_set's binary_logloss: 0.226042	train_set's auc: 0.867572	val_set's binary_logloss: 0.243561	val_set's auc: 0.837037
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[286]	train_set's binary_logloss: 0.22602	train_set's auc: 0.86761	val_set's binary_logloss: 0.24356	val_set's auc: 0.837037
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[287]	train_set's binary_logloss: 0.226003	train_set's auc: 0.867637	val_set's binary_logloss: 0.243561	val_set's auc: 0.837035
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[288]	train_set's binary_logloss: 0.225983	train_set's auc: 0.867672	val_set's binary_logloss: 0.24356	val_set's auc: 0.837036
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[289]	train_set's binary_logloss: 0.225962	train_set's auc: 0.867714	val_set's binary_logloss: 0.24356	val_set's auc: 0.837036
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[290]	train_set's binary_logloss: 0.225943	train_set's auc: 0.867745	val_set's binary_logloss: 0.24356	val_set's auc: 0.837035
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[291]	train_set's binary_logloss: 0.225924	train_set's auc: 0.867775	val_set's binary_logloss: 0.24356	val_set's auc: 0.837037
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[292]	train_set's binary_logloss: 0.225902	train_set's auc: 0.86781	val_set's binary_logloss: 0.243561	val_set's auc: 0.837034
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[293]	train_set's binary_logloss: 0.22588	train_set's auc: 0.86785	val_set's binary_logloss: 0.243558	val_set's auc: 0.83704
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[294]	train_set's binary_logloss: 0.225858	train_set's auc: 0.867895	val_set's binary_logloss: 0.243558	val_set's auc: 0.837039
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[295]	train_set's binary_logloss: 0.225838	train_set's auc: 0.867934	val_set's binary_logloss: 0.243557	val_set's auc: 0.837041
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[296]	train_set's binary_logloss: 0.225819	train_set's auc: 0.867958	val_set's binary_logloss: 0.243555	val_set's auc: 0.837044
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[297]	train_set's binary_logloss: 0.225796	train_set's auc: 0.868002	val_set's binary_logloss: 0.243553	val_set's auc: 0.837047
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[298]	train_set's binary_logloss: 0.225771	train_set's auc: 0.868039	val_set's binary_logloss: 0.243554	val_set's auc: 0.837045
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[299]	train_set's binary_logloss: 0.225748	train_set's auc: 0.868081	val_set's binary_logloss: 0.243556	val_set's auc: 0.837041
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[300]	train_set's binary_logloss: 0.225726	train_set's auc: 0.868107	val_set's binary_logloss: 0.243555	val_set's auc: 0.837042
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[301]	train_set's binary_logloss: 0.225706	train_set's auc: 0.868144	val_set's binary_logloss: 0.243556	val_set's auc: 0.83704
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[302]	train_set's binary_logloss: 0.225689	train_set's auc: 0.868175	val_set's binary_logloss: 0.243557	val_set's auc: 0.837039
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[303]	train_set's binary_logloss: 0.225667	train_set's auc: 0.868215	val_set's binary_logloss: 0.243555	val_set's auc: 0.837043
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[304]	train_set's binary_logloss: 0.225648	train_set's auc: 0.868238	val_set's binary_logloss: 0.243555	val_set's auc: 0.837044
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[305]	train_set's binary_logloss: 0.225628	train_set's auc: 0.868272	val_set's binary_logloss: 0.243554	val_set's auc: 0.837046
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[306]	train_set's binary_logloss: 0.225606	train_set's auc: 0.868312	val_set's binary_logloss: 0.243554	val_set's auc: 0.837045
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[307]	train_set's binary_logloss: 0.225586	train_set's auc: 0.868353	val_set's binary_logloss: 0.243553	val_set's auc: 0.837048
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[308]	train_set's binary_logloss: 0.225568	train_set's auc: 0.868388	val_set's binary_logloss: 0.243554	val_set's auc: 0.837046
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[309]	train_set's binary_logloss: 0.225545	train_set's auc: 0.868423	val_set's binary_logloss: 0.243551	val_set's auc: 0.837052
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[310]	train_set's binary_logloss: 0.225524	train_set's auc: 0.868456	val_set's binary_logloss: 0.243548	val_set's auc: 0.837056
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[311]	train_set's binary_logloss: 0.225502	train_set's auc: 0.868495	val_set's binary_logloss: 0.243548	val_set's auc: 0.837056
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[312]	train_set's binary_logloss: 0.225478	train_set's auc: 0.868537	val_set's binary_logloss: 0.243549	val_set's auc: 0.837054
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[313]	train_set's binary_logloss: 0.225456	train_set's auc: 0.868573	val_set's binary_logloss: 0.243547	val_set's auc: 0.837057
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[314]	train_set's binary_logloss: 0.225433	train_set's auc: 0.868614	val_set's binary_logloss: 0.243546	val_set's auc: 0.837059
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[315]	train_set's binary_logloss: 0.225409	train_set's auc: 0.868658	val_set's binary_logloss: 0.243544	val_set's auc: 0.837062
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[316]	train_set's binary_logloss: 0.225388	train_set's auc: 0.868698	val_set's binary_logloss: 0.243543	val_set's auc: 0.837062
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[317]	train_set's binary_logloss: 0.225367	train_set's auc: 0.868736	val_set's binary_logloss: 0.243545	val_set's auc: 0.837061
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[318]	train_set's binary_logloss: 0.225345	train_set's auc: 0.868768	val_set's binary_logloss: 0.243542	val_set's auc: 0.837067
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[319]	train_set's binary_logloss: 0.225323	train_set's auc: 0.868821	val_set's binary_logloss: 0.243541	val_set's auc: 0.837067
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[320]	train_set's binary_logloss: 0.225298	train_set's auc: 0.868863	val_set's binary_logloss: 0.243542	val_set's auc: 0.837066
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[321]	train_set's binary_logloss: 0.225281	train_set's auc: 0.868902	val_set's binary_logloss: 0.243543	val_set's auc: 0.837063
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[322]	train_set's binary_logloss: 0.22526	train_set's auc: 0.868941	val_set's binary_logloss: 0.243544	val_set's auc: 0.837063
+[LightGBM] [Info] No further splits with positive gain, best gain: -inf
+[LightGBM] [Info] Trained a tree with leaves=255 and max_depth=12
+[323]	train_set's binary_logloss: 0.225245	train_set's auc: 0.868966	val_set's binary_logloss: 0.243544	val_set's auc: 0.837064
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[324]	train_set's binary_logloss: 0.225228	train_set's auc: 0.868996	val_set's binary_logloss: 0.243544	val_set's auc: 0.837063
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[325]	train_set's binary_logloss: 0.225206	train_set's auc: 0.869025	val_set's binary_logloss: 0.243543	val_set's auc: 0.837065
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[326]	train_set's binary_logloss: 0.225183	train_set's auc: 0.869064	val_set's binary_logloss: 0.243543	val_set's auc: 0.837063
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[327]	train_set's binary_logloss: 0.22516	train_set's auc: 0.869103	val_set's binary_logloss: 0.243543	val_set's auc: 0.837064
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[328]	train_set's binary_logloss: 0.225138	train_set's auc: 0.869156	val_set's binary_logloss: 0.243544	val_set's auc: 0.837063
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[329]	train_set's binary_logloss: 0.225118	train_set's auc: 0.869183	val_set's binary_logloss: 0.243544	val_set's auc: 0.837064
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[330]	train_set's binary_logloss: 0.2251	train_set's auc: 0.869202	val_set's binary_logloss: 0.243545	val_set's auc: 0.837064
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[331]	train_set's binary_logloss: 0.225079	train_set's auc: 0.869242	val_set's binary_logloss: 0.243547	val_set's auc: 0.837059
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[332]	train_set's binary_logloss: 0.225055	train_set's auc: 0.869279	val_set's binary_logloss: 0.243546	val_set's auc: 0.83706
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[333]	train_set's binary_logloss: 0.225037	train_set's auc: 0.869311	val_set's binary_logloss: 0.243548	val_set's auc: 0.837057
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[334]	train_set's binary_logloss: 0.225017	train_set's auc: 0.869345	val_set's binary_logloss: 0.243547	val_set's auc: 0.837058
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[335]	train_set's binary_logloss: 0.224997	train_set's auc: 0.869388	val_set's binary_logloss: 0.243547	val_set's auc: 0.837059
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[336]	train_set's binary_logloss: 0.224973	train_set's auc: 0.869423	val_set's binary_logloss: 0.243545	val_set's auc: 0.837062
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[337]	train_set's binary_logloss: 0.224952	train_set's auc: 0.869463	val_set's binary_logloss: 0.243544	val_set's auc: 0.837063
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[338]	train_set's binary_logloss: 0.22493	train_set's auc: 0.869498	val_set's binary_logloss: 0.243546	val_set's auc: 0.83706
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[339]	train_set's binary_logloss: 0.224911	train_set's auc: 0.869532	val_set's binary_logloss: 0.243545	val_set's auc: 0.837062
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[340]	train_set's binary_logloss: 0.224887	train_set's auc: 0.869574	val_set's binary_logloss: 0.243546	val_set's auc: 0.837061
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[341]	train_set's binary_logloss: 0.224864	train_set's auc: 0.869617	val_set's binary_logloss: 0.243548	val_set's auc: 0.837057
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[342]	train_set's binary_logloss: 0.224846	train_set's auc: 0.869637	val_set's binary_logloss: 0.24355	val_set's auc: 0.837057
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[343]	train_set's binary_logloss: 0.224826	train_set's auc: 0.869668	val_set's binary_logloss: 0.24355	val_set's auc: 0.837056
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[344]	train_set's binary_logloss: 0.224805	train_set's auc: 0.869705	val_set's binary_logloss: 0.243553	val_set's auc: 0.837051
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[345]	train_set's binary_logloss: 0.224789	train_set's auc: 0.869738	val_set's binary_logloss: 0.243554	val_set's auc: 0.83705
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[346]	train_set's binary_logloss: 0.224767	train_set's auc: 0.869774	val_set's binary_logloss: 0.243553	val_set's auc: 0.83705
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[347]	train_set's binary_logloss: 0.22475	train_set's auc: 0.869807	val_set's binary_logloss: 0.243553	val_set's auc: 0.83705
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[348]	train_set's binary_logloss: 0.224733	train_set's auc: 0.869829	val_set's binary_logloss: 0.243553	val_set's auc: 0.83705
+[LightGBM] [Info] Trained a tree with leaves=256 and max_depth=12
+[349]	train_set's binary_logloss: 0.224712	train_set's auc: 0.869881	val_set's binary_logloss: 0.243554	val_set's auc: 0.837048
+Early stopping, best iteration is:
+[319]	train_set's binary_logloss: 0.225323	train_set's auc: 0.868821	val_set's binary_logloss: 0.243541	val_set's auc: 0.837067
+[LightGBM] [Info] Finished loading 319 models
