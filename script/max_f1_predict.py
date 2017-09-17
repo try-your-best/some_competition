@@ -47,7 +47,8 @@ class F1Optimizer():
 				DP_C[i, i] = DP_C[i - 1, i - 1] * P[i - 1]
 				# 处理 k1 < k 的情况
 				for j in range(i + 1, n + 1):
-						DP_C[i, j] = P[j - 1] * DP_C[i - 1, j - 1] + (1.0 - P[j - 1]) * DP_C[i, j - 1]
+					# 每次只考虑第k轮， 可以把空间复杂度从 O(n^2) 压缩都 O(n)
+					DP_C[i, j] = P[j - 1] * DP_C[i - 1, j - 1] + (1.0 - P[j - 1]) * DP_C[i, j - 1]
 
 			DP_S = np.zeros((2 * n + 1,))
 			DP_SNone = np.zeros((2 * n + 1,))
@@ -56,6 +57,8 @@ class F1Optimizer():
 					DP_S[i] = 1. / (1. * i)
 					# f1None + 2 * pNone / (2 + k), 看完整的公式， 经过提取，就知道 1. / (1. * i + 1) 的原因
 					DP_SNone[i] = 1. / (1. * i + 1)
+
+			# 从 n 开始往 0 遍历， 因为从 s(n, a) 开始遍历
 			for k in range(n + 1)[::-1]:
 				f1 = 0
 				f1None = 0
